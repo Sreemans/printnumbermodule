@@ -1,0 +1,1 @@
+(()=>{"use strict";var t={};(()=>{var e=t;Object.defineProperty(e,"__esModule",{value:!0}),e.A=void 0;var r=function(){function t(){this.a=2}return t.prototype.getAll=function(t){return this.a},t}();e.A=r})(),module.exports=t})();

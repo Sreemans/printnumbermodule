@@ -1,0 +1,8 @@
+# Exclude source code
+src/
+index.ts
+tsconfig.json
+A.d.ts
+# Exclude development and build files
+node_modules/
+dist/**/*.map
